@@ -2,11 +2,11 @@
 Mini Web games (vintage) coded by Javascript 
 
 # SetUp 
-HTML 
-CSS 
-JavaScript 
+* HTML 
+* CSS 
+* JavaScript 
 
-#Screens 
+# Screens 
 
 Snake : 
 
